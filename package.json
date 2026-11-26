@@ -1,0 +1,18 @@
+{
+  "name": "devops-midterm-23-ntu-cs-1160",
+  "version": "1.0.0",
+  "description": "DevOps Midterm Exam - 23-NTU-CS-1160",
+  "main": "src/grade.js",
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "Hadi Muhammad",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
